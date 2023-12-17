@@ -1,10 +1,9 @@
 # GiftShoppingApp
 "🎁 Gift Shopping App: React Native-based mobile application for seamless gift shopping. Features include intuitive UI, secure payment processing, barcode scanning, email and mobile OTP login, cart management, and push notifications. Available on both App Store and Google Play Store. #ReactNative #MobileApp #Ecommerce"
 
-Link to visit in the app store
+Link to visit in the app store and UI and design pages
 https://apps.apple.com/in/app/gifts-center-shopping/id6446405028
 
-UI and design pages
 ![CheckOut_Screen](https://github.com/KirankumarKumavat/GiftShoppingApp/assets/151417135/e83e7536-c171-4cea-9fcd-46de65c46481)
 ![Add to screen](https://github.com/KirankumarKumavat/GiftShoppingApp/assets/151417135/d6baab10-821a-4cf0-ab51-dccf8a02b270)
 ![Home_Screen](https://github.com/KirankumarKumavat/GiftShoppingApp/assets/151417135/5a1c36df-042e-482d-a1f1-ad7127f48eba)
