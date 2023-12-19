@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>458822622687-t5963h1ta2crbajn4u5m84ib5ln0h3lo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.458822622687-t5963h1ta2crbajn4u5m84ib5ln0h3lo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>458822622687-05r9mrgmn2nn7g9r2i75h2avj2tlr3he.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrTGSVj6TQkguf6s2LaECczp1aKeuBtpY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>458822622687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.GiftsClub</string>
+	<key>PROJECT_ID</key>
+	<string>giftsclub-93543</string>
+	<key>STORAGE_BUCKET</key>
+	<string>giftsclub-93543.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:458822622687:ios:dbf180b6c47a4e832b786a</string>
+</dict>
+</plist>

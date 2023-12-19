@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "458822622687",
+    "project_id": "giftsclub-93543",
+    "storage_bucket": "giftsclub-93543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458822622687:android:de41c6425a863ac22b786a",
+        "android_client_info": {
+          "package_name": "com.GiftsClub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458822622687-e58lrg5qpquft2b9g2icu6qicspg4r8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GiftsClub",
+            "certificate_hash": "056342db0470ab7e51e450abe5739db113ca480a"
+          }
+        },
+        {
+          "client_id": "458822622687-e73a41g1bonn2jbctrmeigbto168klvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GiftsClub",
+            "certificate_hash": "4d1ba871849f046ca8b230d0689317352fd3fa1d"
+          }
+        },
+        {
+          "client_id": "458822622687-suadcpbdh3r6um1ejukrai7osdq948ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFPatASuOi5DAAq5zWkNYLQOSXDZJ7OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458822622687-suadcpbdh3r6um1ejukrai7osdq948ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458822622687-5v8kmp336p05s07i6a9o5v83dqjddvcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.giftclub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458822622687:android:e52d62fe59d6d5c52b786a",
+        "android_client_info": {
+          "package_name": "com.giftcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458822622687-05r9mrgmn2nn7g9r2i75h2avj2tlr3he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giftcenter",
+            "certificate_hash": "e855791b468c6cddf891c78bedf036160038d11d"
+          }
+        },
+        {
+          "client_id": "458822622687-5phq19dem73qiqqcfsuli6m75oiscmcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giftcenter",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "458822622687-q69m68glbsmauffoisi7auip7ffi7b45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giftcenter",
+            "certificate_hash": "b351bcae8b73d82801fa8220a2630096614036e9"
+          }
+        },
+        {
+          "client_id": "458822622687-suadcpbdh3r6um1ejukrai7osdq948ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFPatASuOi5DAAq5zWkNYLQOSXDZJ7OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458822622687-suadcpbdh3r6um1ejukrai7osdq948ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458822622687-5v8kmp336p05s07i6a9o5v83dqjddvcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.giftclub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
